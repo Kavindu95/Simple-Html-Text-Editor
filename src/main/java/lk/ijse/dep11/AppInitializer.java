@@ -19,7 +19,7 @@ public class AppInitializer extends Application {
         AnchorPane root = FXMLLoader.load(getClass().getResource("/view/MainForm.fxml"));
         Scene mainScene = new Scene(root);
         primaryStage.setScene(mainScene);
-        primaryStage.setTitle("Simple Text Editor By Kavi");
+        primaryStage.setTitle("HTML Text Editor By Kavi");
 
         primaryStage.centerOnScreen();
         primaryStage.show();
