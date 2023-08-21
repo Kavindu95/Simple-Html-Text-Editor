@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.dep11.UserGuideController">
+   <children>
+      <Label layoutX="187.0" layoutY="14.0" text="About Us" AnchorPane.bottomAnchor="332.0" AnchorPane.leftAnchor="187.0" AnchorPane.rightAnchor="187.0" AnchorPane.topAnchor="14.0">
+         <font>
+            <Font name="System Bold" size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="502.0" layoutY="370.0" text="Copyrights@" textFill="#e10f0f" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="502.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="370.0" />
+   </children>
+</AnchorPane>
